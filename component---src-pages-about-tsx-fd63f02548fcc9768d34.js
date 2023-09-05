@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkverdant_valleys=self.webpackChunkverdant_valleys||[]).push([[49],{2766:function(e,t,a){a.r(t);var l=a(7294),n=a(3472);t.default=()=>l.createElement(n.Z,null,l.createElement("div",{className:"container mx-auto p-8"},l.createElement("h1",{className:"text-2xl font-bold mb-4"},"About Us"),l.createElement("p",null,"Welcome to our about page! Lorem ipsum dolor sit amet, consectetur adipiscing elit...")))}}]);
+//# sourceMappingURL=component---src-pages-about-tsx-fd63f02548fcc9768d34.js.map
